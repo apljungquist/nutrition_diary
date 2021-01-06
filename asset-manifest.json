@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nutrition_diary/static/css/main.61dcfbed.chunk.css",
-    "main.js": "/nutrition_diary/static/js/main.e98d1706.chunk.js",
-    "main.js.map": "/nutrition_diary/static/js/main.e98d1706.chunk.js.map",
+    "main.js": "/nutrition_diary/static/js/main.f41993b1.chunk.js",
+    "main.js.map": "/nutrition_diary/static/js/main.f41993b1.chunk.js.map",
     "runtime-main.js": "/nutrition_diary/static/js/runtime-main.3c245ac5.js",
     "runtime-main.js.map": "/nutrition_diary/static/js/runtime-main.3c245ac5.js.map",
     "static/js/2.1567f8e3.chunk.js": "/nutrition_diary/static/js/2.1567f8e3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3c245ac5.js",
     "static/js/2.1567f8e3.chunk.js",
     "static/css/main.61dcfbed.chunk.css",
-    "static/js/main.e98d1706.chunk.js"
+    "static/js/main.f41993b1.chunk.js"
   ]
 }
